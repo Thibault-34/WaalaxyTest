@@ -1,0 +1,6 @@
+[submodule "Back"]
+	path = Back
+	url = git@github.com:Thibault-34/WaalaxyTest-Back.git
+[submodule "Front"]
+	path = Front
+	url = git@github.com:Thibault-34/WaalaxyTest-Front.git
